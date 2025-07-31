@@ -21,7 +21,7 @@ I'm excited to contribute to impactful teams where I can apply my skills in auto
 - Built dashboards in Power BI and Grafana for data-driven decision-making  
 - Collaborated cross-functionally with analysts and stakeholders to deliver end-to-end BI solutions
 
-🌍 I was born and raised in the vibrant country of **Tunisia 🇹🇳**
+🌍 I was born and raised in the vibrant country of **Tunisia 🇹🇳**, now I'm living in **Germany 🇩🇪**  
 
 📫 **Contact me**: amna.hdhili@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/amna-hedhili-07185a201/) • [GitHub](https://github.com/AMNA-HEDHILI)
