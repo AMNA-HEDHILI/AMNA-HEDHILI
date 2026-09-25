@@ -9,7 +9,7 @@
 
 🎓 **About Me**
 
-I'm a Computer Science Engineer with **1.5+ years of hands-on experience** as a BI Developer and Data Analyst, delivering end-to-end data solutions in engineering and industrial environments.  
+I'm a Computer Science Engineer with **about 2 years of hands-on experience** as a BI Developer and Data Analyst, delivering end-to-end data solutions in engineering and industrial environments.  
 I specialize in building optimized ETL pipelines, automating anomaly detection & alerting systems, and creating executive-level dashboards using tools like **Talend**, **Power BI**, **Grafana**, **SQL**, and **Python**.
 
 🚀 **Currently open to new opportunities** in data analytics, BI development, or data engineering.  
